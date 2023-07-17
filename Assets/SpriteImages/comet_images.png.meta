@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: d4deeac0d0e74e84dac9ab991436cb01
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: comet_images_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a6dbe3f7533674a9c9026ff22d63f8
+      internalID: 340105876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b714c9b771b477a49957b739ec593702
+      internalID: 1122632339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1921c072fdc1c4e90db83c256b1ac3
+      internalID: 679759654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dfa25bf8ae1b04fbfe35f7cca1ee1d
+      internalID: 194393103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee0bca7611750e40849f824bb12615b
+      internalID: 830387777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf49672e8bb7b54fbae5a885e500028
+      internalID: 323854515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed088160c653a4680eaa554360f74d
+      internalID: 2119969090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 853.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740080e762e42e41a60c53c266deed7
+      internalID: -376690853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777af62de8f64a54987ff2c2f84ad86f
+      internalID: 343787303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c9948aaa6d104ca7ada3e3d6a8803
+      internalID: -1098755078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47225216798a314db7d2e757e3a18ff
+      internalID: 1650320955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61033d417c6d8274ea78357ce7ec9ff8
+      internalID: 1784539089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f44b853d190d964a8d841db127e0358
+      internalID: 100236742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e428eee1b4d5404a9ac674cf57dcfc9
+      internalID: -728344992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6986f4da20916e43b53c9d955c9b04e
+      internalID: -492829466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 683.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e0c655522baa47a462ddc3172530f
+      internalID: 1178292963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27608246a25f39946a78edbc12d309cc
+      internalID: -173375185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c430ad04c0c344a909b753dba9d668
+      internalID: 1645520282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65bb00685ed4c74db3864614a6624cf
+      internalID: 573001818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4e3d81fa4bca94397ea45842873d5c
+      internalID: -1832543997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350575347584dea40a40ddc647e366f7
+      internalID: 103623348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f68929e669555469fa70a53eb786e3
+      internalID: 167191571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4ea4602360fd7469826a0c672bcdb6
+      internalID: -609304235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 513.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159388cd50da8ba4e9af7fd6179c9cda
+      internalID: 414218143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2e0f4875d03b4bb3c86bc35f5ca1a
+      internalID: 71004550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5893595c4968f154385964d8135d5894
+      internalID: -830337381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609d68f227a74044be29cbd439bcf32
+      internalID: 1801497148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8838fd2674da4b9caf0934361b389
+      internalID: 2064667320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d84a6d975647b4ab42773f5d3659fc
+      internalID: 2011304755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a2917c02665e43803a5660fd5e74c
+      internalID: -1433268385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3cc1708ee400747a6c4be78ed3b9b5
+      internalID: -1842071805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 343.3333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d5d35e08bf5443837e97f04b1363c
+      internalID: 726277433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067ad1b0f3e52da408534b8e9236a04a
+      internalID: -1153366882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb456bcb8b996c34dbe5b1dd85dee953
+      internalID: -1634822361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1178b32cf43fdd40b5520fb721158eb
+      internalID: -1019109076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6262e628b2ad2cf4e8d81b56e08aca97
+      internalID: 1122975053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20695c32abb32414eaff58fc7fd2cfbb
+      internalID: 1439572161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f579c947834346aeba7be7c610820
+      internalID: 154349123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd84ca844e6bf142b1dd1256400de31
+      internalID: 547743637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 173.33333
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6179343699a3341adee2d442d51303
+      internalID: -464405080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75de98bf70b57c4bbd82f237cd9a8e1
+      internalID: -435337608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b6be135a3b4b4fbf5a3c60e8644f7
+      internalID: -1572080005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567a45d99b350f4a961fd9ae7b3fd1d
+      internalID: -25930130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9889c49da9d6414c80db00a9b93e09d
+      internalID: 1140765044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2400db815b4e84fa5aa769d5ea3038
+      internalID: -948542335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9330cb2d477a87244ba9a1b19d1c114e
+      internalID: 115216524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd044e83611274da4c2dbce56257c4
+      internalID: 1228806900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comet_images_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3.3333282
+        width: 128
+        height: 170.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77beaf37343597049ba88b5b0ff19146
+      internalID: 619065133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      comet_images_39: -464405080
+      comet_images_28: 2011304755
+      comet_images_22: -609304235
+      comet_images_6: 2119969090
+      comet_images_7: -376690853
+      comet_images_26: 1801497148
+      comet_images_18: 573001818
+      comet_images_20: 103623348
+      comet_images_24: 71004550
+      comet_images_44: -948542335
+      comet_images_23: 414218143
+      comet_images_11: 1784539089
+      comet_images_31: 726277433
+      comet_images_32: -1153366882
+      comet_images_19: -1832543997
+      comet_images_37: 154349123
+      comet_images_30: -1842071805
+      comet_images_29: -1433268385
+      comet_images_5: 323854515
+      comet_images_36: 1439572161
+      comet_images_27: 2064667320
+      comet_images_45: 115216524
+      comet_images_41: -1572080005
+      comet_images_4: 830387777
+      comet_images_2: 679759654
+      comet_images_38: 547743637
+      comet_images_46: 1228806900
+      comet_images_42: -25930130
+      comet_images_1: 1122632339
+      comet_images_3: 194393103
+      comet_images_14: -492829466
+      comet_images_40: -435337608
+      comet_images_15: 1178292963
+      comet_images_17: 1645520282
+      comet_images_21: 167191571
+      comet_images_35: 1122975053
+      comet_images_8: 343787303
+      comet_images_47: 619065133
+      comet_images_9: -1098755078
+      comet_images_13: -728344992
+      comet_images_33: -1634822361
+      comet_images_10: 1650320955
+      comet_images_43: 1140765044
+      comet_images_16: -173375185
+      comet_images_0: 340105876
+      comet_images_12: 100236742
+      comet_images_25: -830337381
+      comet_images_34: -1019109076
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
